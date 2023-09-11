@@ -4,6 +4,7 @@ Flappy Bird built on Lua using LÖVE2D
 ![FlappyBirthTitleScreen](https://github.com/bcheung0/FlappyBird/assets/9855299/2c077091-9108-4552-8e8c-a019b40bcf69)
 
 Game based on Harvards CS50 Game Development course
+
 For running the game:
 1. You need to have love2d downloaded, love2d.org/#download.
 2. LÖVE can load a game in two ways:
